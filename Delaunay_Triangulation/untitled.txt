@@ -1,0 +1,8 @@
+Ideas For Delaunay Interpolation Applications:
+
+1. Find a mountainous region in the US as well as elevations for that region. Then, use a few known latitudes and longitudes and their elevations to create a DT. Use this DT to interpolate for the rest of the elevation values, and show that these values are similar to the actual values. 
+
+2. Make a function that generates a random spherical point set. Assign "elevation" values to each point in the set where each value coresponds to an elevation on the surface of planet earth. Use these values to interpolate for elevations at any arbitrary location on earth. 
+
+3. Recreate the facial recognition algorithm explained in the research paper. 
+
